@@ -15,3 +15,7 @@ After a couple of hours of analyzing our options debating, we settled on the fol
 4. Send from one user to another (Helper function, called by 2, 3 & 4)
 5. Calculate user rating
 6. Update user rating
+
+## Interactive Prototype
+We created an Interactive prototype in Figma and used Marvel to bring it to life! <br>
+You can check out the prototype at https://marvelapp.com/ed0036j
