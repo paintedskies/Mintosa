@@ -1,0 +1,107 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+	background:#67A991;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.navbar{
+    background-color: #e5e5e5;
+}
+.navbar-dark .navbar-nav .nav-link{
+	color:#0B8457;
+}
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.about-text{
+	color:white;
+	font-size:1.25em;
+	
+	margin-bottom:23px;
+}
+
+.card-body{
+	background:#cce9de;
+}
+.card{
+	background-color:#cce9de;
+	
+	border:none;
+}
+.card-body{
+	border-bottom-left-radius: calc(.25rem - 1px);
+    border-bottom-right-radius: calc(.25rem - 1px);
+}
+.sectors{
+padding:3% 0;
+
+}
+
+.sectors h2{
+		
+	padding-bottom:1%;
+}
+.sectors a{
+	color: #0B8457;
+
+}
+.learn{
+	background:white;
+	color:#0B8457;
+	border-color:white;
+}
+.borrower-list{
+	padding:3% 0;
+}
+a{
+	color:#0B8457;
+	text-decoration:none;
+}
+a:hover{
+	color:#0f3020;
+	text-decoration:none;
+}
+.breadcrumb{
+	background:#212529;
+}
+.lend{
+background:#0b8457;
+border-color:#0b8457;
+}
+.lend:hover, .learn:hover{
+	background:#043020;
+	border-color:#043020;
+}
+.megha{
+	padding:3% 0;
+}
